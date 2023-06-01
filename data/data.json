@@ -1,0 +1,128 @@
+{
+    "🧳 Work Experience": [
+        {
+            "Company": "Okta",
+            "Position": "Staff Developer Advocate",
+            "Start": "October, 2021",
+            "End": "January, 2023"
+        },
+        {
+            "Company": "n8n",
+            "Position": "Head of Developer Relations",
+            "Start": "April, 2020",
+            "End": "October, 2021"
+        },
+        {
+            "Company": "Crate.io",
+            "Position": "Developer Advocate",
+            "Start": "January, 2019",
+            "End": "April, 2020"
+        },
+        {
+            "Company": "ResearchGate",
+            "Position": "Engineering Recruitment and Communications Manager",
+            "Start": "July, 2017",
+            "End": "December, 2019"
+        }
+    ],
+    "🎓 Education": [
+        {
+            "School": "College of Technology, Pantnagar",
+            "Degree": "Bachelor of Technology (Information Technology)",
+            "Start": "August, 2013",
+            "End": "June, 2017"
+        }
+    ],
+    "🧪 Certifications": [
+        {
+            "Name": "Advanced OAuth Security",
+            "Organization": "Udemy",
+            "Issue Date": "January, 2023",
+            "ID": "UC-725cbfb2-ca70-4cb1-ade5-23f2738b684f",
+            "URL": "https://www.udemy.com/certificate/UC-725cbfb2-ca70-4cb1-ade5-23f2738b684f/"
+        },
+        {
+            "Name": "The Nuts and Bolts of OAuth 2.0",
+            "Organization": "Udemy",
+            "Issue Date": "November, 2021",
+            "ID": "UC-366ea3e6-2c4c-4959-a8c5-3dc18863d0b5",
+            "URL": "https://www.udemy.com/certificate/UC-366ea3e6-2c4c-4959-a8c5-3dc18863d0b5/"
+        },
+        {
+            "Name": "Software Product Management Specialization",
+            "Organization": "Coursera",
+            "Issue Date": "September, 2018",
+            "ID": "HED25H2HSLD6",
+            "URL": "https://www.coursera.org/account/accomplishments/specialization/HED25H2HSLD6"
+        },
+        {
+            "Name": "Tech Career Skills: Moving from Developer to Engineering Manager",
+            "Organization": "LinkedIn",
+            "Issue Date": "April, 2021",
+            "ID": "",
+            "URL": "https://www.linkedin.com/learning/certificates/95971bedb900e2f37b04968e085e1aa58dcca18f7d240236c57da86ccc291df2?trk=backfilled_certificate"
+        },
+        {
+            "Name": "The Complete Java Certification Course",
+            "Organization": "Udemy",
+            "Issue Date": "January, 2023",
+            "ID": "UC-a8aa32f7-b15f-42f0-be2c-4089d243de46",
+            "URL": "https://udemy.com/certificate/UC-a8aa32f7-b15f-42f0-be2c-4089d243de46/"
+        },
+        {
+            "Name": "Ethereum and Solidity: The Complete Developer's Guide",
+            "Organization": "Udemy",
+            "Issue Date": "December, 2022",
+            "ID": "UC-bf08952d-e9ac-433a-8ec1-1f5a071bc1aa",
+            "URL": "https://www.udemy.com/certificate/UC-bf08952d-e9ac-433a-8ec1-1f5a071bc1aa/"
+        },
+        {
+            "Name": "The Complete NFT Course - Learn Everything About NFTs",
+            "Organization": "Udemy",
+            "Issue Date": "December, 2022",
+            "ID": "UC-02b40fb9-b805-4d5d-98bf-fb2468cba44a",
+            "URL": "https://udemy.com/certificate/UC-02b40fb9-b805-4d5d-98bf-fb2468cba44a/"
+        }
+    ],
+    "📚 Publications": [
+        {
+            "Title": "Rapid Product Development with n8n",
+            "Publisher": "Packt Publishing",
+            "Publication Date": "Feb 25, 2022",
+            "URL": "https://www.packtpub.com/product/rapid-product-development-with-n8n/9781801817363",
+            "ISBN": "9781801817363",
+            "Description": "Practical guide to creating digital products on the web using workflow automation and n8n."
+        },
+        {
+            "Title": "Learning Web based-Virtual Reality",
+            "Publisher": "Apress Media",
+            "Publication Date": "Mar 5, 2017",
+            "URL": "http://www.apress.com/us/book/9781484227091",
+            "ISBN": "978-1-4842-2710-7",
+            "Description": "Build and Deploy Web-based Virtual Reality Technology."
+        },
+        {
+            "Title": "Building a Virtual Assistant for Raspberry Pi",
+            "Publisher": "Apress Media",
+            "Publication Date": "Aug 27, 2016",
+            "URL": "https://www.amazon.com/Building-Virtual-Assistant-Raspberry-voice-controlled/dp/1484221664/",
+            "ISBN": "978-1484221662",
+            "Description": "The practical guide for constructing a voice-controlled virtual assistant."
+        },
+        {
+            "Title": "Learning Firefox OS Application Development",
+            "Publisher": "Packt Publishing",
+            "Publication Date": "Oct 9, 2015",
+            "URL": "https://www.amazon.com/Learning-Firefox-OS-Application-Development/dp/1783989408/",
+            "ISBN": "978-1783989409",
+            "Description": "Learn to design, build, and deploy your Firefox OS applications, to the Firefox Marketplace."
+        }
+    ],
+    "🙌 Social Links": {
+        "Twitter": "https://twitter.com/tanay1337",
+        "LinkedIn": "https://www.linkedin.com/in/tanay1337/",
+        "GitHub": "https://github.com/tanay1337/",
+        "YouTube": "https://www.youtube.com/c/TanayPantTalks",
+        "SoundCloud": "https://soundcloud.com/technicallytrue"
+    }
+}
