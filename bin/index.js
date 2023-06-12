@@ -3,7 +3,6 @@
 "use strict";
 
 const chalk = require('chalk');
-const boxen = require('boxen');
 const inquirer = require('inquirer');
 const data = require('../data/data.json');
 
