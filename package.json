@@ -1,6 +1,6 @@
 {
   "name": "tanay",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CLI for Tanay's resume",
   "main": "bin/index.js",
   "bin": {
